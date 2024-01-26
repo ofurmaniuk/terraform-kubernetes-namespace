@@ -1,1 +1,3 @@
-# terraform-kubernetes-namespace
+# Usage 
+
+### Please copy paste 
